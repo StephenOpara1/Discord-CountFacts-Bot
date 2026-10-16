@@ -1,0 +1,1 @@
+A Discord Bot that makes counting channels fun by throwing in a fact every now and then. Currently live at: https://discord.com/oauth2/authorize?client_id=1559569911163125771&permissions=109568&integration_type=0&scope=bot+applications.commands
