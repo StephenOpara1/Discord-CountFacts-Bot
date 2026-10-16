@@ -1,0 +1,21 @@
+{
+  "name": "countfactz",
+  "version": "1.0.0",
+  "description": "A discord bot that shows interesting facts about a number in a count channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^2.29.1",
+    "@napi-rs/canvas": "^1.0.11",
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.7",
+    "lowdb": "^7.0.1"
+  }
+}
